@@ -2,8 +2,7 @@
 <h1 align="center">Pictorio</h1>
 
 <div align="center">
-  <img src="https://ibb.co/MSkTvrP" alt="Pictorio Logo" width="200">
-  ![Pictorio Logo](https://ibb.co/MSkTvrP)
+  <img src="https://github.com/MasumRaza1/50days-web/blob/main/-Masum.svg" alt="Pictorio Logo" width="200">
 </div>
 
 ---
